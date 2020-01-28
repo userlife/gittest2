@@ -26,4 +26,8 @@ class MainActivity : AppCompatActivity() {
     private fun init(){
 
     }
+
+    private fun init2(){
+
+    }
 }
