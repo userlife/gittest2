@@ -30,5 +30,9 @@ class MainActivity : AppCompatActivity() {
     private fun init2(){
 
     }
-    
+
+    private fun work3(){
+
+    }
+
 }
