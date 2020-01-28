@@ -35,8 +35,11 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+    private fun remotework(){
+
+    }
     private fun localwork(){
-        
+
     }
 
 }
